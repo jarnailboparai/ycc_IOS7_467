@@ -6,7 +6,7 @@
 
         id        = "IOS7"
 
-        version   = "2.0.0">
+        version   = "3.0.0">
 
     <name>IOS7</name>
 
@@ -101,6 +101,8 @@
     <gap:platform name="ios" />
 
     <gap:platform name="android" />
+    
+    <preference name="fullscreen" value="true" />
 
     <gap:plugin name="com.phonegap.plugins.pushplugin" />
 
